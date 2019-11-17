@@ -5,7 +5,7 @@ This is how to make a dino chicken
 <p>https://github.com/NeoGondwana/DinoChicken/blob/master/Methods/Overview</p>
 
 2. ## * [OverView](./recipes/Overview.md)
-//[Equipment & Chemicals Needed](https://github.com/NeoGondwana/DinoChicken/blob/master/Equipment%20%26%20Chemicals/List)
+https://github.com/NeoGondwana/DinoChicken/blob/master/Equipment%20%26%20Chemicals/List
 3. ## [Procedure](https://raw.githubusercontent.com/NeoGondwana/DinoChicken/master/Methods/Procedure)
 4. ## [Results](https://github.com/NeoGondwana/DinoChicken/tree/master/Results/Completed%20Projects)
 
